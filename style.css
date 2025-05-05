@@ -1,0 +1,25 @@
+
+body{
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    color: hsl(286, 71%, 44%);
+    font-size: 60px;
+}
+h2{text-align: center;
+color: darkgray;
+border-style: double;
+border-width: 10%;
+border-color: aliceblue;
+margin-right: 40%;
+margin-left: 40%;
+}
+#img1{
+    width: 50%;
+    margin-left: 25%;
+}
+h3{
+    font-size: 120%;
+    text-align: center;
+}
